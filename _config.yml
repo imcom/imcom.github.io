@@ -7,7 +7,7 @@ data_source: ./_data
 collections: null
 
 # Handling Reading
-safe:         false
+safe:         true
 include:      [".htaccess"]
 exclude:      ["Gemfile*", "README.md"]
 keep_files:   [".git", ".svn"]
